@@ -10,12 +10,12 @@
 
 | 분류 | 내용 | 바로가기 |
 | --- | --- | --- |
-| `jungle-gtl03` | Krafton Jungle · Game Tech Lab 3기 | [주차별 원본](#krafton-jungle--game-tech-lab-3기) · [전체 포트폴리오](https://github.com/DDing-Ho/KraftonJungle_GameTechLab03) |
+| `jungle-gtl03` | Krafton Jungle · Game Tech Lab 3기 | [저장소 목록](https://github.com/orgs/DDing-Ho-Archive/repositories?q=props.collection%3Ajungle-gtl03) · [주차별 원본](#krafton-jungle--game-tech-lab-3기) · [전체 포트폴리오](https://github.com/DDing-Ho/KraftonJungle_GameTechLab03) |
 | `organization-meta` | Organization 소개와 분류 기준 | [.github](https://github.com/DDing-Ho-Archive/.github) |
 
 ## Krafton Jungle · Game Tech Lab 3기
 
-이 Organization에서 관리하는 주차별 원본은 아래 8개입니다. 5+·6·7·9·11·13·14주차와 10주차 후속 팀 작업은 **[전체 목차](https://github.com/DDing-Ho/KraftonJungle_GameTechLab03#주차별-목차)**에서 각 소유자의 저장소로 연결합니다.
+이 Organization에서 관리하는 주차별 원본은 아래 8개입니다. 5+·6·7·9·11·13·14주차와 10주차 후속 팀 작업은 [전체 목차](https://github.com/DDing-Ho/KraftonJungle_GameTechLab03#주차별-목차)에서 각 소유자의 저장소로 연결합니다.
 
 | 주차 | 원본 저장소 | 주요 내용 | 기여 기록 |
 | --- | --- | --- | --- |
@@ -32,7 +32,7 @@
 
 ## 저장소 찾기
 
-- **프로젝트·교육 과정별**: [Repositories](https://github.com/orgs/DDing-Ho-Archive/repositories)의 검색창에 `prop`를 입력하고 `collection` 값을 선택합니다.
+- **프로젝트·교육 과정별**: [Jungle 컬렉션 바로가기](https://github.com/orgs/DDing-Ho-Archive/repositories?q=props.collection%3Ajungle-gtl03). [Repositories](https://github.com/orgs/DDing-Ho-Archive/repositories)의 검색창에서 `props.collection:jungle-gtl03`으로도 찾을 수 있습니다.
 - **기술별**: 각 저장소의 Topics를 사용합니다. 예: `cpp`, `directx11`, `rendering`, `asset-pipeline`, `particle-system`.
 - **새 저장소 등록**: 컬렉션 지정 → 한 줄 설명·기술 Topics 작성 → 해당 목차에 링크 추가. 자세한 기준은 [.github README](https://github.com/DDing-Ho-Archive/.github#저장소-등록-기준)에 있습니다.
 
