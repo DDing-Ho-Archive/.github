@@ -11,6 +11,7 @@
 | 분류 | 내용 | 바로가기 |
 | --- | --- | --- |
 | `jungle-gtl03` | Krafton Jungle · Game Tech Lab 3기 | [저장소 목록](https://github.com/orgs/DDing-Ho-Archive/repositories?q=props.collection%3Ajungle-gtl03) · [주차별 원본](#krafton-jungle--game-tech-lab-3기) · [전체 포트폴리오](https://github.com/DDing-Ho/KraftonJungle_GameTechLab03) |
+| `wormhole-portal` | Wormhole Portal 시연·트레일러 자료 | [저장소 목록](https://github.com/orgs/DDing-Ho-Archive/repositories?q=props.collection%3Awormhole-portal) · [프로젝트 안내](#wormhole-portal) |
 | `organization-meta` | Organization 소개와 분류 기준 | [.github](https://github.com/DDing-Ho-Archive/.github) |
 
 ## Krafton Jungle · Game Tech Lab 3기
@@ -30,9 +31,21 @@
 
 🔒 원본 접근에는 권한이 필요합니다. 원본은 팀 공동 결과물이며, 개인 기여는 연결된 상세 문서에서 근거 커밋과 함께 확인할 수 있습니다.
 
+### 교육 보조 도구
+
+| 저장소 | 용도 |
+| --- | --- |
+| [jungle-lms-study-day-automation](https://github.com/DDing-Ho-Archive/jungle-lms-study-day-automation) | Jungle LMS 학습 시작·종료 자동화와 Windows 트레이 실행 |
+
+## Wormhole Portal
+
+| 저장소 | 용도 |
+| --- | --- |
+| [WormholePortalPluginTrailer](https://github.com/DDing-Ho-Archive/WormholePortalPluginTrailer) | 플러그인의 트레일러·시연용 Unreal Engine 프로젝트 |
+
 ## 저장소 찾기
 
-- **프로젝트·교육 과정별**: [Jungle 컬렉션 바로가기](https://github.com/orgs/DDing-Ho-Archive/repositories?q=props.collection%3Ajungle-gtl03). [Repositories](https://github.com/orgs/DDing-Ho-Archive/repositories)의 검색창에서 `props.collection:jungle-gtl03`으로도 찾을 수 있습니다.
+- **프로젝트·교육 과정별**: [Jungle](https://github.com/orgs/DDing-Ho-Archive/repositories?q=props.collection%3Ajungle-gtl03) · [Wormhole Portal](https://github.com/orgs/DDing-Ho-Archive/repositories?q=props.collection%3Awormhole-portal). [Repositories](https://github.com/orgs/DDing-Ho-Archive/repositories)의 검색창에서 `props.collection:컬렉션값`으로도 찾을 수 있습니다.
 - **기술별**: 각 저장소의 Topics를 사용합니다. 예: `cpp`, `directx11`, `rendering`, `asset-pipeline`, `particle-system`.
 - **새 저장소 등록**: 컬렉션 지정 → 한 줄 설명·기술 Topics 작성 → 해당 목차에 링크 추가. 자세한 기준은 [.github README](https://github.com/DDing-Ho-Archive/.github#저장소-등록-기준)에 있습니다.
 

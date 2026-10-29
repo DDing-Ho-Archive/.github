@@ -8,7 +8,8 @@
 
 | 값 | 대상 |
 | --- | --- |
-| `jungle-gtl03` | Krafton Jungle · Game Tech Lab 3기 주차별 원본 |
+| `jungle-gtl03` | Krafton Jungle · Game Tech Lab 3기 주차별 원본과 교육 보조 도구 |
+| `wormhole-portal` | Wormhole Portal 시연·트레일러 자료 |
 | `organization-meta` | Organization 소개·목차·관리 문서 |
 
 새 프로젝트의 저장소를 들일 때 필요한 컬렉션 값을 추가합니다. 아직 저장소가 없는 분류를 목차에 미리 나열하지 않습니다.
